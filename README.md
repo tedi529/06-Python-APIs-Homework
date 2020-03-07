@@ -8,5 +8,5 @@ As expected, the highest temperatures observed in the sample of cities occurred 
 Observed Trend Two:
 There does not seem to be trends of note in humidity, cloudiness, or wind speed. However, the majority of cities sampled experienced humidity over 40% and wind speeds less than 30 mph. Wind speed tended to be higher as city locations were farther away from the equator.
 
-Observed Trend Two:
+Observed Trend Three:
 Although the sample is representative of many different locations around the world, information for only one day was used. A bigger sample of data over a much longer period of time would be needed to provide more insight into world weather trends.
